@@ -16,12 +16,12 @@
 if(request.getParameter("lecturer") != null){
 	String selected = request.getParameter("lecturer");
 	if(selected.equals("Ziv")){
-		out.println("You are right!");
+		out.println("Your final grade is 100!");
 		
 	}
 	else{
 		
-		out.println("You are wrong!");
+		out.println("Your final grade is 0!");
 	}	
 	
 }
