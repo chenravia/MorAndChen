@@ -7,7 +7,7 @@
   <form method="get">
     <input type="radio" name="lecturer" value="Mor">Mor
     <input type="radio" name="lecturer" value="Ziv">Ziv
-    <input type="radio" name="lecturer" value="Chen">Chen
+    <input type="radio" name="lecturer" value="Dana">Chen
     <input type="submit" value="Query">
   </form>
  
